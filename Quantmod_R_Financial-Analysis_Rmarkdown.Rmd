@@ -65,7 +65,7 @@ ggplot(IBM_daily) + geom_histogram(aes(x = daily.returns), binwidth = .001)
 ```
 
 
-#The 'quantmod' package thus simplies interfacing to finance APIs and makes preliminary analyses and visualizations of time series data easy!
+#The 'quantmod' package thus simplifies interfacing to finance APIs and makes preliminary analyses and visualizations of time series data easy!
 
 
 
