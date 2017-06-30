@@ -35,7 +35,7 @@ glimpse(IBM)
 head(IBM)
 ```
 
-##A line chart visualization of quantmod is produced with the function 'chart_Series()'.
+##With 'quantmod', a line chart visualization is produced with the function 'chart_Series()'.
 
 ```{r Chart Series}
 chart_Series(IBM)
